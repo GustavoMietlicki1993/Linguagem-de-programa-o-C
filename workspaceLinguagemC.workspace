@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="Exercicio 3 Uninter/Exercicio 3 Uninter.cbp" />
+		<Project filename="Calcular Media/Calcular Media.cbp" />
+		<Project filename="Exercicio 1 Uninter/Exercicio 1 Uninter.cbp" />
+		<Project filename="Exercicio 2 Uninter/Exercicio 2 Uninter.cbp" />
+		<Project filename="Exercicio 4 Uninter/Exercicio 4 Uninter.cbp" />
+		<Project filename="testarScanF/testarScanF.cbp" />
+		<Project filename="FizzBuzz/FizzBuzz.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

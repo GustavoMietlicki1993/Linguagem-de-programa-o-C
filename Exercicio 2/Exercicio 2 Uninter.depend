@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576292147 source:c:\users\gustavo mietlicki\documents\atividadepraticauninter\exercicio 2 uninter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
